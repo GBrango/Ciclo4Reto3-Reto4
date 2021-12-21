@@ -1,0 +1,17 @@
+com\usa\reto2\reto2\entity\CleaningProduct.class
+com\usa\reto2\reto2\service\OrderService.class
+com\usa\reto2\reto2\controller\UserController.class
+com\usa\reto2\reto2\crud\CleaningProductCrud.class
+com\usa\reto2\reto2\entity\Order.class
+com\usa\reto2\reto2\Reto2Application.class
+com\usa\reto2\reto2\repository\CleaningProductRepository.class
+com\usa\reto2\reto2\controller\OrderController.class
+com\usa\reto2\reto2\service\CleaningProductService.class
+com\usa\reto2\reto2\crud\UserCrud.class
+com\usa\reto2\reto2\repository\OrderRepository.class
+com\usa\reto2\reto2\crud\OrderCrud.class
+com\usa\reto2\reto2\controller\CleaningProductController.class
+com\usa\reto2\reto2\entity\User.class
+com\usa\reto2\reto2\repository\UserRepository.class
+com\usa\reto2\reto2\CleaningCrud.class
+com\usa\reto2\reto2\service\UserService.class

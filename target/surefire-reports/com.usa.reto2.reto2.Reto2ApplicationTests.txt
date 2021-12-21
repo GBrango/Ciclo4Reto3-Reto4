@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.usa.reto2.reto2.Reto2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 20.281 s - in com.usa.reto2.reto2.Reto2ApplicationTests
